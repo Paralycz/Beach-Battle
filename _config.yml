@@ -9,4 +9,4 @@ show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a d
 
 github:
   zip_url: https://github.com/Paralycz/Beach-Battle/archive/refs/heads/main.zip
-  another_url: another value
+  another_url: https://github.com/Paralycz
