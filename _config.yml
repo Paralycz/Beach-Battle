@@ -6,7 +6,3 @@ title: [Beach Battle!]
 description: [a turn-based action fighting game set upon the sandy shores of Everglen.]
 
 show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-
-github:
-  zip_url: https://github.com/Paralycz/Beach-Battle/archive/refs/heads/main.zip
-  another_url: https://github.com/Paralycz
